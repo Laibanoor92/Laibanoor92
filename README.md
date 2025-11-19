@@ -1,106 +1,131 @@
- <!-- Typing Animation -->
+ <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&weight=600&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Laiba+Noor+👋;Full-Stack+Developer+💻;AI+%26+Backend+Enthusiast+🤖;Crafting+Clean+%26+Scalable+Solutions+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3500&color=42F1FF&center=true&vCenter=true&width=650&height=70&lines=Hi+I'm+Laiba+Noor+✨;Full-Stack+Developer+💻;AI+%26+Backend+Engineer+🤖;DSA+Enthusiast+%7C+300%2B+Problems+🔥" />
 </p>
 
-<!-- Banner -->
+<!-- Developer GIF -->
 <p align="center">
-  <img src="https://media.tenor.com/OdVJZVRV7J0AAAAC/developer.gif" width="600"/>
-</p>
-
----
-
-# ⚡ About Me  
-I am a passionate **Full-Stack Developer** who loves turning ideas into clean, working products.  
-I specialize in building fully scalable web apps with a blend of:
-
-✔ Aesthetic & intuitive UI  
-✔ Strong backend logic  
-✔ AI-powered functionalities (Gemini, OCR)  
-✔ Clean, understandable architecture  
-
-I enjoy solving complex problems, writing meaningful code,  
-and continuously learning to build better systems.
-
----
-
-# 🚀 Tech Stack — My Tools of Creation
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,express,mongodb,postgres,drizzle,tailwind,vite,git,github,postman&perline=6"/>
+  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="620">
 </p>
 
 ---
 
-# 🌟 Featured Projects — My Best Work
+<p align="center">
+  <img src="https://img.shields.io/badge/💫_Innovative_Developer_|_AI_Integrator_|_Backend_Engineer-00eaff?style=for-the-badge&logoColor=white&labelColor=000000&color=00eaff">
+</p>
 
-### 🔹 **DocFinder — AI-Powered Lost & Found System**
-Tech: React • Express • PostgreSQL • Drizzle ORM • Gemini API  
-✔ Intelligent item matching  
-✔ AI-based report validation  
-✔ Optimized schema design  
+<p align="center">
+Crafting scalable apps with clean UI, optimized backend logic, and AI-powered workflows.
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/⚡_TECH_UNIVERSE_I_WORK_IN-6EE2FF?style=for-the-badge&logoColor=white&labelColor=000000&color=6EE2FF">
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,nodejs,express,mongodb,postgres,git,vscode,postman&perline=6" />
+</p>
+
+---
+
+<p>
+  <img src="https://img.shields.io/badge/🚀_PROFESSIONAL_SUMMARY-FFCB6B?style=for-the-badge&labelColor=000000&color=FFCB6B">
+</p>
+
+<!-- SHORT–MEDIUM PROFESSIONAL SUMMARY -->
+👩‍💻 **Full-Stack Developer (React · Node.js · Express)**  
+Building clean, scalable, and user-friendly web applications with modern JavaScript stacks.
+
+🤖 **AI Integrations (Gemini API · OCR · Document Automation)**  
+ 
+🧠 **DSA Practitioner (300+ LeetCode Solutions)**  
+Focused on improving logic, algorithms, and structured problem-solving.
+
+  🏆 **Achievements**  
+Flipkart GRiD Semifinalist • High ranks in national CTFs • GSSoC Contributor.
+
+📚 **Current Focus**  
+Learning system design fundamentals, database optimization, API patterns & backend scalability.
+
+---
+
+<p>
+  <img src="https://img.shields.io/badge/🌈_FEATURED_PROJECTS-D98CFF?style=for-the-badge&labelColor=000000&color=D98CFF">
+</p>
+
+---
+
+## ⭐ DocFinder — AI Smart Recovery  
+✨ AI-based lost item detection  
+🔐 Role-based authentication  
+📦 PostgreSQL + Drizzle ORM  
 🔗 github.com/Laibanoor92/DocFinder  
 
 ---
 
-### 🔹 **Food Rescue — Real-Time Donation Platform**
-Tech: MERN • JWT • Cloudinary • Socket.IO  
-✔ Live donation flows  
-✔ Role-based dashboards  
-✔ Admin supervision  
+## ⭐ Food Rescue — MERN Real-Time  
+♻ Donation routing  
+⚡ Real-time Socket.IO updates  
 🔗 github.com/Laibanoor92/Food-Rescue  
 
 ---
 
-### 🔹 **AI Document Summary Assistant**
-Tech: React • Node • Gemini API • OCR  
-✔ Multi-format summarization  
-✔ PDF/Image text extraction  
-✔ Drag & Drop UI  
+## ⭐ Document Summary Assistant (AI)  
+📄 PDF/Image summarizer  
+🖼 OCR + Gemini API  
 🔗 github.com/Laibanoor92/Document-Summary-Analyzer  
 
 ---
 
-# 🏆 Achievements
-✨ Semi-finalist — **Flipkart GRiD 2025**  
-✨ Rank **51/22,577** — NCIIPC Pentathon  
-✨ **300+ LeetCode questions solved**  
-✨ Open Source Contributor — GSSoC Extended  
-✨ AIR 250 — Internship Studio CIT  
+<p>
+  <img src="https://img.shields.io/badge/🏅_ACHIEVEMENTS-FFD369?style=for-the-badge&labelColor=000000&color=FFD369">
+</p>
+
+✨ Flipkart GRiD 2025 – Semifinalist  
+🥇 Rank 51/22,577 — NCIIPC Pentathon  
+🔥 300+ DSA  
+🌟 GSSoC Contributor  
+🏆 AIR 250  
 
 ---
 
-# 📊 GitHub Stats — My Coding Journey
-
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Laibanoor92&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laibanoor92&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/📊_GITHUB_INSIGHTS-82AAFF?style=for-the-badge&labelColor=000000&color=82AAFF">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Laibanoor92&theme=tokyonight&hide_border=true" height="200"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Laibanoor92&show_icons=true&theme=react&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laibanoor92&layout=compact&theme=react&hide_border=true" />
 </p>
 
----
-
-# 🔥 Activity Graph
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Laibanoor92&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 🌎 Connect With Me  
-
-<p align="center">
-  <a href="mailto:laibanor786@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="48"/></a>
-  <a href="https://www.linkedin.com/in/laiba-noor-70089228a"><img src="https://skillicons.dev/icons?i=linkedin" height="48"/></a>
-  <a href="https://github.com/Laibanoor92"><img src="https://skillicons.dev/icons?i=github" height="48"/></a>
+  <img src="https://streak-stats.demolab.com/?user=Laibanoor92&theme=react&hide_border=true" height="200"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=00E7F7&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+!;Let%E2%80%99s+build+something+amazing+🚀;" />
+  <img src="https://img.shields.io/badge/⚡_ACTIVITY_GRAPH-00F7BF?style=for-the-badge&labelColor=000000&color=00F7BF">
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Laibanoor92&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🌎_CONNECT_WITH_ME-C4E7FF?style=for-the-badge&labelColor=000000&color=C4E7FF">
+</p>
+
+<p align="center">
+  <a href="mailto:laibanor786@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
+  <a href="https://www.linkedin.com/in/laiba-noor-70089228a"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
+  <a href="https://github.com/Laibanoor92"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
+</p>
+
+---
+
+<p align="center">⭐ If you like my work, consider giving my repositories a star! ⭐</p>
