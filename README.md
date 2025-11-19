@@ -1,6 +1,6 @@
  <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00E7F7&center=true&vCenter=true&width=600&height=60&lines=Hi+I'm+Laiba+Noor+👋;Full-Stack+Developer+💻;AI+%26+Backend+Enthusiast+🤖;DSA+Learner+%7C+300%2B+Problems+🔥" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00E7F7&center=true&vCenter=true&width=600&height=60&lines=Hi+I'm+Laiba+Noor+👋;Full-Stack+Developer+💻;AI+%26+Backend+Engineer+🤖;DSA+Enthusiast+%7C+300%2B+Problems+🔥" />
 </p>
 
 <!-- Developer Banner -->
@@ -12,14 +12,14 @@
 
 <div align="center">
 
-### 💫 Passionate Developer | AI Explorer | Problem Solver  
-Crafting scalable apps, intuitive UIs, clean backends, and AI-powered functionalities.
+## 🌟 **Innovative Developer | AI Integrator | Backend Problem Solver**  
+Delivering scalable solutions with clean architecture, intelligent automation, and modern web technologies.
 
 </div>
 
 ---
 
-# 🔥 Tech Universe I Work In
+# 🔥 **Technical Skill Universe — Tools I Build With**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,nodejs,express,mongodb,postgres,git,vscode,postman&perline=6" />
@@ -27,55 +27,57 @@ Crafting scalable apps, intuitive UIs, clean backends, and AI-powered functional
 
 ---
 
-# 🚀 About Me
+# 🚀 **Professional Overview — Who I Am as an Engineer**
 
-👩‍💻 I build **full-stack applications** with modern tools  
-🤖 I integrate **AI (Gemini API, OCR, PDF Parsing)** into real apps  
-🧠 I solve **DSA daily** (300+ Q on LeetCode)  
-💡 I focus on **clean architecture + meaningful design**  
-🏆 Multiple national-level achievements in tech competitions  
-📚 Currently improving **backend + system design** skills  
-
----
-
-# 🌈 Featured Projects
-
-## ⭐ DocFinder – AI Smart Recovery System  
-**Tech:** React, Express, PostgreSQL (Neon), Drizzle ORM, Gemini API  
-✨ AI-powered lost item analysis  
-🔐 Secure authentication + role-based flows  
-📦 10+ backend endpoints  
-🔗 **Repo:** github.com/Laibanoor92/DocFinder  
+👩‍💻 Builder of **end-to-end full-stack applications** using modern JavaScript frameworks  
+🤖 Integrator of **AI-powered systems** (Gemini API, OCR, PDF Text Extraction)  
+🧠 Consistent **DSA Practitioner** (300+ LeetCode questions solved)  
+🛠 Advocate of **clean code, modular design, & scalable backend systems**  
+🏆 National-level achiever in competitive tech events  
+📚 Passionate about **System Design, Backend Scaling & Databases**
 
 ---
 
-## ⭐ Food Rescue – Real-Time MERN Platform  
-**Tech:** React, Express, MongoDB, JWT, Socket.IO  
-♻ Connects food donors → NGOs  
-⚡ Live donation tracking  
-🔗 **Repo:** github.com/Laibanoor92/Food-Rescue  
+# 🌈 **Flagship Engineering Projects — My Featured Work**
+
+## ⭐ **DocFinder — AI-backed Smart Document Recovery System**  
+**Stack:** React | Express | PostgreSQL (Neon) | Drizzle ORM | Gemini API  
+✨ AI-based lost-item recognition & validation  
+🔐 Secure auth, protected routes & role-based controls  
+📦 10+ reliable backend endpoints with modular architecture  
+🔗 Repo: **github.com/Laibanoor92/DocFinder**
 
 ---
 
-## ⭐ AI Document Summary Assistant  
-**Tech:** React, Node.js, Gemini API, OCR  
-📄 Multi-format document summarization  
-🖼 OCR + text extraction  
-🔗 **Repo:** github.com/Laibanoor92/Document-Summary-Analyzer  
+## ⭐ **Food Rescue — Real-Time MERN Ecosystem**  
+**Stack:** React | Express | MongoDB | JWT | Socket.IO  
+♻ Smart donation routing between donors & NGOs  
+⚡ Real-time updates using Socket.IO  
+📊 Admin role & dashboard management  
+🔗 Repo: **github.com/Laibanoor92/Food-Rescue**
 
 ---
 
-# 🏅 Achievements
-
-✨ **Flipkart GRiD 2025 – Semifinalist**  
-🥇 **Rank 51/22,577** – NCIIPC Pentathon CTF  
-🔥 **300+ LeetCode Problems** solved  
-🌟 **Open Source Contributor** – GSSoC Extended  
-🏆 **AIR 250** – Internship Studio CIT  
+## ⭐ **AI Document Summary Assistant — Intelligent Document Engine**  
+**Stack:** React | Node.js | Gemini | OCR  
+📄 Multi-format doc summarization (PDF, images, text)  
+🖼 OCR pipeline for accurate data extraction  
+⚡ Minimal, elegant, fast UI/UX  
+🔗 Repo: **github.com/Laibanoor92/Document-Summary-Analyzer**
 
 ---
 
-# 📊 GitHub Performance
+# 🏅 **Achievements & Milestones — My Growth as a Developer**
+
+✨ **Flipkart GRiD 2025 — Semifinalist**  
+🥇 **Rank 51 / 22,577** — National CTF (NCIIPC Pentathon)  
+🔥 **300+ LeetCode Problems Solved**  
+🌟 **Open Source Contributor** — GSSoC Extended  
+🏆 **AIR 250** — Common Internship Test  
+
+---
+
+# 📊 **GitHub Performance Insights — My Coding Journey**
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Laibanoor92&show_icons=true&theme=react&hide_border=true" />
@@ -88,7 +90,7 @@ Crafting scalable apps, intuitive UIs, clean backends, and AI-powered functional
 
 ---
 
-# ⚡ Activity Graph
+# ⚡ **Contribution Heatmap — My Activity Graph**
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Laibanoor92&theme=react-dark&hide_border=true" />
@@ -96,7 +98,7 @@ Crafting scalable apps, intuitive UIs, clean backends, and AI-powered functional
 
 ---
 
-# 🌎 Let's Connect
+# 🌎 **Let’s Connect — Find Me Online**
 
 <p align="center">
   <a href="mailto:laibanor786@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
