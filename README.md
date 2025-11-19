@@ -12,7 +12,13 @@
 
 <div align="center">
 
-<h2 style="font-weight:700; color:#00E7F7; text-shadow:0px 0px 8px #00E7F7;">
+<h2 style="
+background: linear-gradient(90deg, #00e7f7, #7df9ff, #b6fcef);
+-webkit-background-clip: text;
+color: transparent;
+font-weight: 700;
+text-shadow: 0px 0px 6px rgba(0, 238, 255, 0.4);
+">
 💫 Innovative Developer | AI Integrator | Backend Engineer  
 </h2>
 
@@ -24,7 +30,13 @@ Crafting scalable apps with modern UI, optimized backend systems, and AI-powered
 
 ---
 
-# ⚡ <span style="color:#67d5ff; text-shadow:0px 0px 6px #67d5ff;">TECH UNIVERSE I WORK IN</span>
+# <span style="
+background: linear-gradient(90deg, #6ee2ff, #66cfff, #54bbff);
+-webkit-background-clip: text;
+color: transparent;
+font-weight: 800;
+text-shadow:0px 0px 8px rgba(102,207,255,0.4);
+">⚡ TECH UNIVERSE I WORK IN</span>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,nodejs,express,mongodb,postgres,git,vscode,postman&perline=6" />
@@ -32,7 +44,13 @@ Crafting scalable apps with modern UI, optimized backend systems, and AI-powered
 
 ---
 
-# 🚀 <span style="color:#ffcb6b; text-shadow:0px 0px 8px #ffcb6b;">PROFESSIONAL SUMMARY</span>
+# <span style="
+background: linear-gradient(90deg, #ffcb6b, #ffd992, #ffe7b8);
+-webkit-background-clip: text;
+color: transparent;
+font-weight: 800;
+text-shadow:0px 0px 8px rgba(255,203,107,0.35);
+">🚀 PROFESSIONAL SUMMARY</span>
 
 👩‍💻 Builder of **full-stack JavaScript applications**  
 🤖 Creator of **AI-powered systems** (Gemini, OCR, NLP)  
@@ -43,46 +61,80 @@ Crafting scalable apps with modern UI, optimized backend systems, and AI-powered
 
 ---
 
-# 🌈 <span style="color:#d98cff; text-shadow:0px 0px 8px #d98cff;">FEATURED PROJECTS</span>
+# <span style="
+background: linear-gradient(90deg, #d98cff, #e9b2ff, #f4d8ff);
+-webkit-background-clip: text;
+color: transparent;
+font-weight: 800;
+text-shadow:0px 0px 8px rgba(217,140,255,0.4);
+">🌈 FEATURED PROJECTS</span>
 
 ---
 
-## ⭐ <span style="color:#00eaff; text-shadow:0px 0px 6px #00eaff;">DocFinder — AI Smart Recovery System</span>
+## ⭐ <span style="
+background: linear-gradient(90deg, #00eaff, #5ff6ff, #affcff);
+-webkit-background-clip: text;
+color: transparent;
+font-weight:700;
+">DocFinder — AI Smart Recovery System</span>
+
 **Tech:** React • Express • PostgreSQL • Drizzle ORM • Gemini API  
 ✨ AI-powered lost-item recognition  
-🔐 Secure authentication & roles  
-📦 10+ backend routes with clean structure  
-🔗 **Repo:** github.com/Laibanoor92/DocFinder  
+🔐 Role-based auth + secure flows  
+📦 10+ backend routes  
+🔗 github.com/Laibanoor92/DocFinder  
 
 ---
 
-## ⭐ <span style="color:#ff6fb5; text-shadow:0px 0px 6px #ff6fb5;">Food Rescue — Real-Time MERN Platform</span>
+## ⭐ <span style="
+background: linear-gradient(90deg, #ff6fb5, #ffa0d1, #ffcbe6);
+-webkit-background-clip: text;
+color: transparent;
+font-weight:700;
+">Food Rescue — Real-Time MERN Platform</span>
+
 **Tech:** React • Express • MongoDB • JWT • Socket.IO  
-♻ Smart donor-NGO workflow  
-⚡ Live updates via Socket.IO  
-🔗 **Repo:** github.com/Laibanoor92/Food-Rescue  
+♻ Donation workflow automation  
+⚡ Live tracking via Socket.IO  
+🔗 github.com/Laibanoor92/Food-Rescue  
 
 ---
 
-## ⭐ <span style="color:#9dfc7c; text-shadow:0px 0px 6px #9dfc7c;">AI Document Summary Assistant</span>
+## ⭐ <span style="
+background: linear-gradient(90deg, #9dfc7c, #c8ffae, #e6ffdc);
+-webkit-background-clip: text;
+color: transparent;
+font-weight:700;
+">AI Document Summary Assistant</span>
+
 **Tech:** React • Node • Gemini API • OCR  
-📄 Multi-format document summarization  
-🖼 OCR + text extraction  
-🔗 **Repo:** github.com/Laibanoor92/Document-Summary-Analyzer  
+📄 PDF/Image summarization  
+🖼 OCR data extraction  
+🔗 github.com/Laibanoor92/Document-Summary-Analyzer  
 
 ---
 
-# 🏅 <span style="color:#FFD369; text-shadow:0px 0px 8px #FFD369;">ACHIEVEMENTS</span>
+# <span style="
+background: linear-gradient(90deg, #ffd369, #ffe49a, #fff0c0);
+-webkit-background-clip: text;
+color: transparent;
+font-weight: 800;
+">🏅 ACHIEVEMENTS</span>
 
 ✨ Flipkart GRiD 2025 — **Semifinalist**  
 🥇 Rank **51 / 22,577** — NCIIPC Pentathon  
-🔥 **300+ LeetCode Problems** solved  
-🌟 GSSoC Extended — **Open Source Contributor**  
-🏆 AIR 250 — Internship Studio CIT  
+🔥 300+ LeetCode Questions  
+🌟 Open Source Contributor — GSSoC  
+🏆 AIR 250 — CIT  
 
 ---
 
-# 📊 <span style="color:#82AAFF; text-shadow:0px 0px 6px #82AAFF;">GITHUB INSIGHTS</span>
+# <span style="
+background: linear-gradient(90deg, #82AAFF, #A2C0FF, #C7D8FF);
+-webkit-background-clip: text;
+color: transparent;
+font-weight: 800;
+">📊 GITHUB INSIGHTS</span>
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Laibanoor92&show_icons=true&theme=react&hide_border=true" />
@@ -95,7 +147,12 @@ Crafting scalable apps with modern UI, optimized backend systems, and AI-powered
 
 ---
 
-# ⚡ <span style="color:#00f7bf; text-shadow:0px 0px 6px #00f7bf;">ACTIVITY GRAPH</span>
+# <span style="
+background: linear-gradient(90deg, #00f7bf, #7fffe0, #c2fff4);
+-webkit-background-clip: text;
+color: transparent;
+font-weight: 800;
+">⚡ ACTIVITY GRAPH</span>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Laibanoor92&theme=react-dark&hide_border=true" />
@@ -103,7 +160,12 @@ Crafting scalable apps with modern UI, optimized backend systems, and AI-powered
 
 ---
 
-# 🌎 <span style="color:#c4e7ff; text-shadow:0px 0px 5px #c4e7ff;">CONNECT WITH ME</span>
+# <span style="
+background: linear-gradient(90deg, #c4e7ff, #e5f4ff, #f1faff);
+-webkit-background-clip: text;
+color: transparent;
+font-weight: 800;
+">🌎 CONNECT WITH ME</span>
 
 <p align="center">
   <a href="mailto:laibanor786@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
