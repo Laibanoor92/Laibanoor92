@@ -1,118 +1,105 @@
- <h1 align="center" style="font-weight:700; color:#E6E6E6;">Laiba Noor</h1>
-<h3 align="center" style="font-weight:300; color:#B3B3B3;">Full-Stack Developer • Backend & AI Integrations • Software Engineer (In-Progress)</h3>
+ <!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&weight=600&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Laiba+Noor+👋;Full-Stack+Developer+💻;AI+%26+Backend+Enthusiast+🤖;Crafting+Clean+%26+Scalable+Solutions+✨" />
+</p>
 
-<p align="center" style="color:#808080;">
-Focused on crafting scalable systems, refined user experiences, and clean, maintainable code.
+<!-- Banner -->
+<p align="center">
+  <img src="https://media.tenor.com/OdVJZVRV7J0AAAAC/developer.gif" width="600"/>
 </p>
 
 ---
 
-# 🜁 Profile Summary
-I am a Computer Science undergraduate specializing in **full-stack development** and practical **AI integrations**.  
-My approach combines elegant UI design, optimized backend architecture, and intuitive user workflows.
+# ⚡ About Me  
+I am a passionate **Full-Stack Developer** who loves turning ideas into clean, working products.  
+I specialize in building fully scalable web apps with a blend of:
 
-I prioritize:  
-- Reliability  
-- Clean architecture  
-- Scalable code  
-- Strong database design  
-- High-quality problem solving  
+✔ Aesthetic & intuitive UI  
+✔ Strong backend logic  
+✔ AI-powered functionalities (Gemini, OCR)  
+✔ Clean, understandable architecture  
 
----
-
-# 🜁 Technical Expertise  
-
-### **Languages**
-- C++  
-- JavaScript (ES6+)  
-- HTML5/CSS3  
-
-### **Frontend Engineering**
-- React (Hooks, Context)  
-- Tailwind CSS  
-- Vite  
-
-### **Backend Engineering**
-- Node.js  
-- Express.js  
-- Authentication & Middleware  
-- REST API Design  
-
-### **Databases**
-- PostgreSQL  
-- MongoDB  
-- Drizzle ORM  
-
-### **AI & Integrations**
-- Gemini API  
-- OCR & PDF Parsing  
-- Cloudinary  
-
-### **Tools & Platforms**
-- Git & GitHub  
-- Postman  
-- Render, Vercel  
-- Socket.IO  
+I enjoy solving complex problems, writing meaningful code,  
+and continuously learning to build better systems.
 
 ---
 
-# 🜁 Key Projects (Selected)
+# 🚀 Tech Stack — My Tools of Creation
 
-### **DocFinder — Intelligent Document Recovery System**  
-→ AI-powered validation & reporting  
-→ PostgreSQL + Drizzle ORM schemas  
-→ Complete API-driven architecture  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,express,mongodb,postgres,drizzle,tailwind,vite,git,github,postman&perline=6"/>
+</p>
+
+---
+
+# 🌟 Featured Projects — My Best Work
+
+### 🔹 **DocFinder — AI-Powered Lost & Found System**
+Tech: React • Express • PostgreSQL • Drizzle ORM • Gemini API  
+✔ Intelligent item matching  
+✔ AI-based report validation  
+✔ Optimized schema design  
 🔗 github.com/Laibanoor92/DocFinder  
 
 ---
 
-### **Food Rescue — Real-Time Donation Workflow**  
-→ MERN stack with role-based access  
-→ Cloudinary uploads  
-→ Real-time updates via Socket.IO  
+### 🔹 **Food Rescue — Real-Time Donation Platform**
+Tech: MERN • JWT • Cloudinary • Socket.IO  
+✔ Live donation flows  
+✔ Role-based dashboards  
+✔ Admin supervision  
 🔗 github.com/Laibanoor92/Food-Rescue  
 
 ---
 
-### **AI Document Summary Assistant**  
-→ Minimal design with drag-drop uploads  
-→ Multi-format OCR + AI summarization  
+### 🔹 **AI Document Summary Assistant**
+Tech: React • Node • Gemini API • OCR  
+✔ Multi-format summarization  
+✔ PDF/Image text extraction  
+✔ Drag & Drop UI  
 🔗 github.com/Laibanoor92/Document-Summary-Analyzer  
 
 ---
 
-# 🜁 Achievements  
-- **Flipkart GRiD 2025 – Semifinalist**  
-- **Rank 51 / 22,577 – NCIIPC AICTE Pentathon (CTF)**  
-- **300+ LeetCode problems solved**  
-- **GSSoC Extended – Open Source Contributor**  
-- **AIR 250 – Internship Studio CIT**  
+# 🏆 Achievements
+✨ Semi-finalist — **Flipkart GRiD 2025**  
+✨ Rank **51/22,577** — NCIIPC Pentathon  
+✨ **300+ LeetCode questions solved**  
+✨ Open Source Contributor — GSSoC Extended  
+✨ AIR 250 — Internship Studio CIT  
 
 ---
 
-# 🜁 GitHub Analytics  
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Laibanoor92&show_icons=true&theme=graywhite&hide_border=true&icon_color=999999&text_color=c0c0c0" />
-</p>
+# 📊 GitHub Stats — My Coding Journey
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laibanoor92&layout=compact&theme=graywhite&hide_border=true&text_color=c0c0c0" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Laibanoor92&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laibanoor92&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Laibanoor92&theme=tokyonight&hide_border=true" height="200"/>
 </p>
 
 ---
 
-# 🜁 Contact  
-**Email:**  
-📩 `laibanor786@gmail.com`
+# 🔥 Activity Graph
 
-**LinkedIn:**  
-🔗 `linkedin.com/in/laiba-noor-70089228a`
-
-**GitHub:**  
-💻 `github.com/Laibanoor92`
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Laibanoor92&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
-<p align="center" style="color:#6f6f6f; font-style:italic; margin-top:25px;">
-"Precision in code. Clarity in design. Impact in execution."
+# 🌎 Connect With Me  
+
+<p align="center">
+  <a href="mailto:laibanor786@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="48"/></a>
+  <a href="https://www.linkedin.com/in/laiba-noor-70089228a"><img src="https://skillicons.dev/icons?i=linkedin" height="48"/></a>
+  <a href="https://github.com/Laibanoor92"><img src="https://skillicons.dev/icons?i=github" height="48"/></a>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=00E7F7&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+!;Let%E2%80%99s+build+something+amaz
