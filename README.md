@@ -34,12 +34,31 @@ Crafting scalable apps with clean UI, optimized backend logic, and AI-powered wo
   <img src="https://img.shields.io/badge/🚀_PROFESSIONAL_SUMMARY-FFCB6B?style=for-the-badge&labelColor=000000&color=FFCB6B">
 </p>
 
-👩‍💻 Full-stack app builder (React + Express)  
-🤖 AI Integrator (Gemini API, OCR, PDF extraction)  
-🧠 300+ LeetCode problems  
-💡 Clean architecture believer  
-🏆 National-level achiever  
-📚 Learning Backend + System Design  
+ <p align="center">
+  <img src="https://i.ibb.co/FmJb1tR/glass-card-premium.png" width="88%" />
+</p>
+
+<p align="left">
+
+👩‍💻 **Full-Stack Developer (React + Node + Express)**  
+Building fast, scalable, and clean web applications with a strong focus on user experience and modular architecture.
+
+🤖 **AI Feature Integrator (Gemini API, OCR, PDF Tools)**  
+Skilled at embedding AI capabilities into real-world apps — including smart data extraction and document understanding.
+
+🧠 **DSA Enthusiast (300+ LeetCode Solutions)**  
+Improving problem-solving, logic, and coding efficiency through consistent practice.
+
+💡 **Clean Code + Scalable Architecture**  
+Committed to writing maintainable code using modern patterns, reusable components, and optimized backend flows.
+
+🏆 **Recognized Performer**  
+Semifinalist in Flipkart GRiD and top ranks in national-level tech competitions & CTFs.
+
+📚 **Actively Learning System Design**  
+Exploring API design, database optimization, caching, queues, and production-ready backend practices.
+
+</p>
 
 ---
 
