@@ -1,4 +1,4 @@
- <!-- Animated Header -->
+ !-- Animated Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3500&color=42F1FF&center=true&vCenter=true&width=650&height=70&lines=Hi+I'm+Laiba+Noor+✨;Full-Stack+Developer+💻;AI+%26+Backend+Engineer+🤖;DSA+Enthusiast+%7C+300%2B+Problems+🔥" />
 </p>
